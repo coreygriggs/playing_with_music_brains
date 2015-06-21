@@ -1,5 +1,5 @@
 import unittest
-from music_brains import *
+from music_brainz import *
 
 class TestMusicBrains(unittest.TestCase):
 
